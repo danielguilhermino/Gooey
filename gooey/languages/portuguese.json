@@ -7,6 +7,7 @@
   "choose_one": "(translate me) Choose One",
   "close": "Fechar",
   "close_program": "Fechar o Programa?",
+  "dialog_button_ok":"Ok",
   "edit": "Editar",
   "enter_filename": "Entre com o nome do arquivo",
   "error_required_fields": "Você deve preencher todos os campos na seção obrigatória!",
